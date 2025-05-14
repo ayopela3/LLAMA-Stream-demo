@@ -18,5 +18,5 @@ npm run llama
 
 this requires you to install llama.cpp on your device.
 
-- you may need to add `-ngl 99` to enable GPU (if you are using NVidia/AMD/Intel GPU)
+- you may need to add `-ngl 99` on your llama server command to enable GPU (if you are using NVidia/AMD/Intel GPU)
 - you can try using other models - [here.](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
